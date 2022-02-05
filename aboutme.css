@@ -2,15 +2,22 @@ h1 {
     color: rgb(136, 255, 0);
     font-family: "cursive";
     border-style: solid;
-        text-shadow: 2px 2px;
+    text-shadow: 2px 2px 5px rgb(255, 0, 0);
+
 }
 
 * {
     background-color: rgb(242, 6, 250);
 
   
-    display: flex;
+    /* display: flex; */
     justify-content: space-between;
-    border-style: ridge;
-    
+    border-style: solid
+}
+body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+  
 }
