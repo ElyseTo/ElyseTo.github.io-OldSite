@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(136, 255, 0);
+    font-family: "cursive";
+    border-style: solid;
+        text-shadow: 2px 2px;
+}
+
+* {
+    background-color: rgb(242, 6, 250);
+
+  
+    display: flex;
+    justify-content: space-between;
+    border-style: ridge;
+    
+}
