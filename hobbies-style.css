@@ -1,0 +1,9 @@
+h1 {color: palevioletred;}
+
+body {
+    background-image: url('images/backgroundpicture.jpg');
+}
+li {
+    font-weight:bold;
+    font-size:2rem;
+}

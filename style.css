@@ -15,6 +15,32 @@ h1 {
     
 }
 
+.topnav {
+    overflow:hidden;
+
+}
+
+.topnav a{
+    text-decoration: none;
+    float:left;
+    text-align: center;
+    padding:30px;
+    font-size: 20px;
+    color: palegreen;
+}
+
+.topnav a:hover
+{
+    color:plum;
+}
+
+ .topnav a:visited {
+    color:red ;
+}
+.topnav a:active
+{
+color:palegoldenrod;
+}
 .grid {
     display: flex;
     flex-wrap: wrap;
