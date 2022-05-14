@@ -21,6 +21,36 @@ body{
     margin-left: 100px;
   
 }
+.topnav {
+    overflow:hidden;
+
+}
+
+.topnav a{
+    text-decoration: none;
+    float:left;
+    text-align: center;
+    padding:30px;
+    font-size: 20px;
+    color: palegreen;
+}
+
+.topnav a:hover
+{
+    color:plum;
+}
+
+ .topnav a:visited {
+    color:red ;
+}
+.topnav a:active
+{
+color:palegoldenrod;
+}
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
 img{
 
 }
